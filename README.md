@@ -1,8 +1,42 @@
-# React + Vite
+React Router Multipage Website with Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A multipage React website built using Vite, React Router, and Tailwind CSS. This project features dynamic content handling, including a shared Hero section customized using props, ensuring consistency across pages.
 
-Currently, two official plugins are available:
+✨ Features
+React-Based Framework: Utilizes React for building reusable and modular components.
+Dynamic Routing: Seamless navigation between multiple pages, including Home, About, Services, and Contact.
+Tailwind CSS Styling: A responsive and visually appealing design powered by Tailwind CSS.
+Reusable Hero Section: A shared Hero component that dynamically updates content using props for each page.
+🛠️ Technologies Used
+React: Core framework for building the user interface.
+React Router: Manages navigation across multiple pages.
+Tailwind CSS: Ensures responsive and modern styling.
+Vite: A fast development build tool for blazing-fast project scaffolding.
+🚀 How to Use
+Clone the Repository:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+bash
+Copy code
+git clone https://github.com/majidk300/react_router_web.git
+Navigate to the Project Directory:
+
+bash
+Copy code
+cd react_router_web
+Install Dependencies: Ensure Node.js is installed, then run:
+
+bash
+Copy code
+npm install
+Start the Development Server:
+
+bash
+Copy code
+npm run dev
+Access the Application: Open http://localhost:5173 in your browser.
+
+👤 Author
+Majid Naseem
+GitHub: majidk300
+
+Feel free to connect for queries or collaborations!
