@@ -29,7 +29,7 @@ Start the Development Server:
 bash
 Copy code
 npm run dev
-Access the Application: Open http://localhost:5173 in your browser.
+Access the Application - it will updated after project  will finished : Open http://localhost:5173 in your browser.
 
 👤 Author
 Majid Naseem
