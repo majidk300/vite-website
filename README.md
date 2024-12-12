@@ -15,10 +15,6 @@ Vite: A fast development build tool for blazing-fast project scaffolding.
 🚀 How to Use
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/majidk300/react_router_web.git
-Navigate to the Project Directory:
 
 bash
 Copy code
